@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  fluttery: ^0.0.8
+  fluttery_dart2: ^0.0.9
 
 dev_dependencies:
   flutter_test:

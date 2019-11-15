@@ -2,7 +2,7 @@ import 'dart:math' show max, min, pi, cos, sin;
 
 import 'package:flutter/material.dart' show Colors;
 import 'package:flutter/widgets.dart';
-import 'package:fluttery/gestures.dart';
+import 'package:fluttery_dart2/gestures.dart';
 
 // TODO: support CW and CCW
 // TODO: support arbitrary number of radial painters
